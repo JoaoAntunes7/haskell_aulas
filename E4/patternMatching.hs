@@ -34,3 +34,5 @@ main = do
 
     let tupla = (1, 2, 3)
     putStrLn $ "A soma dos elementos da tupla é: " ++ show (total tupla)
+
+    
